@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
     <span style='color:#C7D2D6'>Rafael Amancio</span>
 </h1>
 <!--<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" width="290" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-website-hosting-illustration_23-2149258057.jpg?w=740&t=st=1706237285~exp=1706237885~hmac=4b8f6b6d2f7097bb9e77b81d1667eb637211a7690bdb7b6c9262ffa9a49944f7" style="border-radius:20px;margin-left:20px">-->

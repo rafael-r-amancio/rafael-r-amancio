@@ -1,7 +1,6 @@
 <h1 align="center">
     <span style='color:#C7D2D6'>Rafael Amancio</span>
 </h1>
-<h3>📚</h3>
 <p align="justify">I'm a data analyst from São Paulo-SP, Brazil, with a bachelor's degree in Information Systems. I like recognizing patterns and helping decision-making based on a data-driven culture.
 <br>
 

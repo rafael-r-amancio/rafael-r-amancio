@@ -16,7 +16,7 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-r-amancio&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=C7D2D6&title_color=271058&text_color=271058&border_radius=20&border_color=271058&icon_color=271058&theme=jolly) -->
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael_r_amancio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael-r-amancio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <br>
 

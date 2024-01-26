@@ -31,7 +31,7 @@ I'm passionate about technology, games, reading and science fiction films.</p>
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> (edited by author)
+    <!-- - Developer vector created by <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> (edited by author) -->
 
 </details>
 

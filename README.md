@@ -9,14 +9,15 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C7D2D6?style=for-the-badge&logo=linkedin&logoColor=271058&color:271058)](https://www.linkedin.com/in/rafael-ribeiro-amancio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-amancio/) 	[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rafael_r_amancio@outlook.com)
 
 <!--
 <h3 align="left">GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-r-amancio&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=C7D2D6&title_color=271058&text_color=271058&border_radius=20&border_color=271058&icon_color=271058&theme=jolly) -->
 
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael-r-amancio&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=271058&hide=html,css&bg_color=C7D2D6&text_color=271058&border_radius=20&border_color=&count_private=true)](https://github.com/rafael-r-amancio/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael_r_amancio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <br>
 
 ### 🌱 I’m currently learning:

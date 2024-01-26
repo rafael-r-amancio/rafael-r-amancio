@@ -9,7 +9,7 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-amancio/) 	[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rafael_r_amancio@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-amancio/) 	[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](mailto:rafael_r_amancio@outlook.com)
 
 <!--
 <h3 align="left">GitHub Stats</h3>

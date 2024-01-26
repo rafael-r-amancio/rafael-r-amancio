@@ -18,6 +18,7 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael-r-amancio&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafael-r-amancio&theme=holi-theme)](https://git.io/streak-stats)
 <br>
 
 ### 🌱 I’m currently learning:

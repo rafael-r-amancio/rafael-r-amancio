@@ -23,7 +23,7 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 - Python
 - R
 - Machine Learning
-- 
+
 ### 💬 Ask me: rafael_r_amancio@outlook.com
 
 <details align="left">

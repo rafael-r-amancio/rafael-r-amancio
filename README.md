@@ -19,8 +19,6 @@ I'm passionate about technology, games, reading and science fiction films.</p>
 
 ![Static Badge](https://img.shields.io/badge/Aws-white?logo=amazonaws&logoColor=black) ![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=black) ![Static Badge](https://img.shields.io/badge/R-white?logo=r&logoColor=black)
 
-### 💬 Talk to me: rafael_r_amancio@outlook.com
-
 <details align="left">
   <summary></summary> 
  
